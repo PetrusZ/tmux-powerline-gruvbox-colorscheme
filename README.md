@@ -1,6 +1,6 @@
 ### A gruvbox colorscheme for tmux powerline
 
-A gruvbox colorscheme inspire by morhetz/gruvbox.
+A gruvbox colorscheme, port of [morhetz/gruvbox](https://github.com/morhetz/gruvbox).
 
 Currently in progress, but works fine for me .
 
@@ -10,7 +10,16 @@ Currently in progress, but works fine for me .
 2. cp your powerline config.json to ~/.config/powerline/
 
 3. modify confing.json about tmux part:
+
 ```json
 "tmux": {
     "colorscheme": "gruvbox_dark"
 }
+```
+#### Screenshot
+
+![screenshot](screenshot.png)
+
+##### License
+
+[MIT License](LICENSE)
