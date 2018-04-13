@@ -20,6 +20,6 @@ Currently in progress, but works fine for me .
 
 ![screenshot](screenshot.png)
 
-##### License
+#### License
 
-[MIT License](LICENSE)
+[GPL3.0 License](LICENSE)
