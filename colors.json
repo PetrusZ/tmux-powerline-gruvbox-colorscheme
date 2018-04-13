@@ -1,0 +1,48 @@
+{
+	"colors": {
+        "gruvbox:dark0_hard"  : [234, "1d2021"],
+        "gruvbox:dark0"       : [235, "282828"],
+        "gruvbox:dark0_soft"  : [236, "32302f"],
+        "gruvbox:dark1"       : [237, "3c3836"],
+        "gruvbox:dark2"       : [239, "504945"],
+        "gruvbox:dark3"       : [241, "665c54"],
+        "gruvbox:dark4"       : [243, "7c6f64"],
+        "gruvbox:dark4_256"   : [243, "7c6f64"],
+
+        "gruvbox:gray_245"    : [245, "928374"],
+        "gruvbox:gray_244"    : [244, "928374"],
+
+        "gruvbox:light0_hard" : [230, "f9f5d7"],
+        "gruvbox:light0"      : [229, "fbf1c7"],
+        "gruvbox:light0_soft" : [228, "f2e5bc"],
+        "gruvbox:light1"      : [223, "ebdbb2"],
+        "gruvbox:light2"      : [250, "d5c4a1"],
+        "gruvbox:light3"      : [248, "bdae93"],
+        "gruvbox:light4"      : [246, "a89984"],
+        "gruvbox:light4_256"  : [246, "a89984"],
+
+        "gruvbox:bright_red"     : [167, "fb4934"],
+        "gruvbox:bright_green"   : [142, "b8bb26"],
+        "gruvbox:bright_yellow"  : [214, "fabd2f"],
+        "gruvbox:bright_blue"    : [109, "83a598"],
+        "gruvbox:bright_purple"  : [175, "d3869b"],
+        "gruvbox:bright_aqua"    : [108, "8ec07c"],
+        "gruvbox:bright_orange"  : [208, "fe8019"],
+
+        "gruvbox:neutral_red"    : [124, "cc241d"],
+        "gruvbox:neutral_green"  : [106, "98971a"],
+        "gruvbox:neutral_yellow" : [172, "d79921"],
+        "gruvbox:neutral_blue"   : [66,  "458588"],
+        "gruvbox:neutral_purple" : [132, "b16286"],
+        "gruvbox:neutral_aqua"   : [72,  "689d6a"],
+        "gruvbox:neutral_orange" : [166, "d65d0e"],
+
+        "gruvbox:faded_red"      : [88,  "9d0006"],
+        "gruvbox:faded_green"    : [100, "79740e"],
+        "gruvbox:faded_yellow"   : [136, "b57614"],
+        "gruvbox:faded_blue"     : [24,  "076678"],
+        "gruvbox:faded_purple"   : [96,  "8f3f71"],
+        "gruvbox:faded_aqua"     : [66,  "427b58"],
+        "gruvbox:faded_orange"   : [130, "af3a03"]
+    }
+}
