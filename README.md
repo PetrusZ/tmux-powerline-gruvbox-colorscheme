@@ -22,4 +22,4 @@ Currently in progress, but works fine for me .
 
 #### License
 
-[GPL3.0 License](LICENSE)
+[MIT](LICENSE)
