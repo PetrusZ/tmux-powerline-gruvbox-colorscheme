@@ -2,7 +2,7 @@
 
 A gruvbox colorscheme, port of [morhetz/gruvbox](https://github.com/morhetz/gruvbox).
 
-Currently in progress, but works fine for me .
+Currently in progress, but works fine for me. Welcome to report any issues.
 
 #### Usage
 1. git clone https://github.com/PetrusZ/tmux-powerline-gruvbox-colorscheme.git ~/.config/powerline
